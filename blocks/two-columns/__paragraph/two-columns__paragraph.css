@@ -1,0 +1,11 @@
+.two-columns__paragraph {
+  list-style-type: none;
+  margin-bottom: 30px;
+  margin-left: 0;
+  margin-top: 0;
+}
+
+.two-columns__paragraph:last-child {
+  margin: 0;
+
+}

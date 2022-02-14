@@ -1,0 +1,7 @@
+.centered-block {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+
+}

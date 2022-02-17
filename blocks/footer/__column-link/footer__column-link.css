@@ -2,7 +2,12 @@
   line-height: 18px;
   font-size: 18px;
   font-weight: normal;
-  color: #fff;
   margin-top: 10px;
+  color: #F2F2F2;
+  text-decoration: none;
+}
 
+.footer__column-link:hover {
+  transition: ease;
+  opacity: .5;
 }

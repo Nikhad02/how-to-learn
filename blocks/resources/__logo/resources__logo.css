@@ -3,3 +3,9 @@
   height: 38px;
   text-align: center;
 }
+
+
+.resources__logo:hover {
+  transition: ease;
+  opacity: .5;
+}

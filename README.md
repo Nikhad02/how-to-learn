@@ -1,7 +1,7 @@
-#How to learn
+# How to learn
 ## Information
 Этот проект был сделан с целью практики, после
 пройдённой темы в **Яндекс практикум**.
-###Integration
+### Integration
 Были использованы технологии `Html` и `Css`.
 
